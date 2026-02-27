@@ -1,0 +1,138 @@
+/* Shared resume styles */
+
+@page {
+  size: A4;
+  margin: 1.3cm 1.5cm;
+}
+
+html {
+  background-color: white !important;
+}
+
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: none !important;
+  font-family: 'Aptos', -apple-system, system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  color: #222222;
+  font-size: 10.5pt;
+  line-height: 1.35;
+}
+
+/* Name - h1 */
+h1 {
+  color: #1A1A1A;
+  font-size: 20pt;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+/* Center contact info lines (first two paragraphs after h1) */
+h1 + p,
+h1 + p + p {
+  text-align: center !important;
+  color: #222222;
+  margin: 0.08rem 0;
+  font-size: 10.5pt;
+}
+
+/* Reset all other paragraphs to left align */
+p {
+  text-align: left;
+  margin: 0.5rem 0;
+  color: #222222;
+  font-size: 10.5pt;
+}
+
+/* Section headings - h2 */
+h2 {
+  color: #24476B;
+  font-size: 11.5pt;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Subheadings / company / dates - h3 */
+h3 {
+  color: #2F4F6F;
+  font-size: 10.5pt;
+  font-weight: 600;
+  margin: 0.25rem 0;
+}
+
+/* List items */
+li {
+  color: #222222;
+  font-size: 10.5pt;
+  margin: 0.25rem 0;
+}
+
+/* Separators */
+hr {
+  border: none;
+  border-top: 1px solid #D6DEE6;
+  margin: 0.75rem 0;
+}
+
+/* Table without borders (used for skills) */
+table.skills {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0;
+}
+
+table.skills th,
+table.skills td {
+  border: none;
+  padding: 0.2rem;
+  text-align: left;
+}
+
+table.skills th {
+  display: none;
+}
+
+/* Links */
+a {
+  color: #24476B;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #24476B;
+}
+
+/* Compact/print variation */
+@media print {
+  body {
+    font-size: 9pt;
+    line-height: 1.25;
+  }
+  
+  h1 {
+    font-size: 18pt;
+    margin-bottom: 0.15rem;
+  }
+  
+  h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.15rem;
+    font-size: 10.5pt;
+  }
+  
+  h3 {
+    margin: 0.1rem 0;
+    font-size: 9.5pt;
+  }
+  
+  p, li {
+    margin: 0.2rem 0;
+  }
+  
+  hr {
+    margin: 0.5rem 0;
+  }
+}
