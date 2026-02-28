@@ -2,23 +2,24 @@
 
 **Cloud & DevOps Engineer**
 
-Villanueva del Rosario, Málaga | [davidaguilera91@gmail.com](mailto:davidaguilera91@gmail.com) | +34 615 28 41 16 | LinkedIn: linkedin.com/in/daguilera91/
+Málaga | [davidaguilera91@gmail.com](mailto:davidaguilera91@gmail.com) | +34 615 28 41 16 | [LinkedIn](https://linkedin.com/in/daguilera91/)
 
 ---
 
 ## PROFESSIONAL SUMMARY
 
-Cloud & DevOps Engineer with 8+ years of experience building reliable, scalable, and automated platforms across **Azure** and **AWS**. Strong background in **Infrastructure as Code**, **CI/CD orchestration**, and automation with **Python** and **Bash**, with hands-on experience designing secure cloud environments and improving operational efficiency. Focused on delivering robust platforms, standardizing infrastructure, and enabling faster, more reliable software delivery.
+Cloud & DevOps Engineer with 6+ years of experience building reliable, scalable, and automated platforms across **Azure** and **AWS**. Strong background in **Infrastructure as Code**, **CI/CD orchestration**, and automation with **Python** and **Bash**, with hands-on experience designing secure cloud environments and improving operational efficiency. Focused on delivering robust platforms, standardizing infrastructure, and enabling faster, more reliable software delivery.
 
 ---
 
 ## CORE SKILLS
 
 <table class="skills">
-<tr><td><strong>Cloud Platforms:</strong> Azure, AWS</td><td><strong>Containers &amp; Orchestration:</strong> Docker, Kubernetes (AKS/EKS)</td></tr>
-<tr><td><strong>IaC &amp; Automation:</strong> Terraform, Python, Bash, PowerShell</td><td><strong>CI/CD:</strong> GitLab CI/CD, Azure DevOps, Jenkins</td></tr>
-<tr><td><strong>Monitoring:</strong> Grafana, Splunk, CloudWatch, Azure Monitor</td><td><strong>Systems:</strong> Linux, Windows, Active Directory</td></tr>
-<tr><td><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</td><td><strong>Networking:</strong> firewalls, VPNs, networking</td></tr>
+<tr><td><strong>Cloud:</strong> Azure, AWS</td><td><strong>Containers &amp; Orquestación:</strong> Docker, kubernetes</td></tr>
+<tr><td><strong>IaC &amp; Automation:</strong> Terraform, Ansible</td><td><strong>CI/CD &amp; DevOps Tools:</strong> Git, GitLab CI/CD, Azure DevOps</td></tr>
+<tr><td><strong>Scripting:</strong> Python, Bash, PowerShell</td><td><strong>Systems:</strong> Linux, Windows</td></tr>
+<tr><td><strong>Monitoring:</strong> Grafana, Splunk, Dynatrace</td><td><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</td></tr>
+<tr><td><strong>Networking:</strong> firewalls, VPNs, DNS, TCP/IP</td></tr>
 </table>
 
 ---

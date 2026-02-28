@@ -17,6 +17,8 @@ body {
   color: #222222;
   font-size: 10.5pt;
   line-height: 1.35;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
 
 /* Name - h1 */
@@ -38,9 +40,12 @@ h1 + p + p {
   font-size: 10.5pt;
 }
 
-/* Reset all other paragraphs to left align */
+/* Reset all other paragraphs to justified text */
+/* except the two lines immediately following the name which remain centered */
 p {
-  text-align: left;
+  text-align: justify;
+  /* use inter-word justification for more even spacing in PDF */
+  text-justify: inter-word;
   margin: 0.5rem 0;
   color: #222222;
   font-size: 10.5pt;
@@ -68,6 +73,8 @@ li {
   color: #222222;
   font-size: 10.5pt;
   margin: 0.25rem 0;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /* Separators */
@@ -130,6 +137,8 @@ a:visited {
   
   p, li {
     margin: 0.2rem 0;
+    text-align: justify;
+    text-justify: inter-word;
   }
   
   hr {

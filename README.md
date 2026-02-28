@@ -137,11 +137,17 @@ El script `build-resume.sh` ejecuta estos pasos:
    - `-s`: Genera HTML completo (standalone)
    - `-c`: Inyecta CSS en la cabecera HTML
 
-2. **HTML → PDF**: Google Chrome headless
+2. **HTML → PDF**: Google Chrome headless (without header/footer)
    ```bash
-   /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome \
-     --headless --disable-gpu --print-to-pdf="<output.pdf>" "file://<input.html>"
+   /Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome \\
+     --headless --disable-gpu \\
+     --print-to-pdf="<output.pdf>" \\
+     --print-to-pdf-no-header \\
+     "file://<input.html>"
    ```
+
+   The `--print-to-pdf-no-header` option ensures Chrome doesn't add the
+   default page title/date or page numbers at the bottom of the document.
 
 ### ¿Por qué Chrome en lugar de LaTeX?
 
