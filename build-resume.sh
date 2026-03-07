@@ -10,6 +10,7 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
+file_name="David-Aguilera_Cloud-Devops-Engineer"  # base name for output PDF files; language suffix and -compact are added as needed
 lang=${1:-all}
 mode=${2:-normal}   # normal or compact; compact reduces font/margins to try to fit one page
 
@@ -92,8 +93,8 @@ function render() {
 }
 
 function build_all() {
-  render resume-en.md resume-en.pdf
-  render resume-es.md resume-es.pdf
+  render resume-en.md $file_name-en.pdf
+  render resume-es.md $file_name-es.pdf
 }
 
 function usage() {
@@ -119,9 +120,9 @@ EOF
 if [[ "$lang" == "all" ]]; then
   build_all
 elif [[ "$lang" == "en" ]]; then
-  render resume-en.md resume-en.pdf
+  render resume-en.md $file_name-en.pdf
 elif [[ "$lang" == "es" ]]; then
-  render resume-es.md resume-es.pdf
+  render resume-es.md $file_name-es.pdf
 else
   usage
   exit 1

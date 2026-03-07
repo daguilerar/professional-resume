@@ -8,17 +8,18 @@ Villanueva del Rosario, Málaga | [davidaguilera91@gmail.com](mailto:davidaguile
 
 ## PERFIL PROFESIONAL
 
-Cloud & DevOps Engineer con más de 8 años de experiencia diseñando, automatizando y operando plataformas cloud seguras, escalables y fiables en entornos **Azure** y **AWS**. Especializado en **Infrastructure as Code**, automatización con **Python/Bash**, despliegues CI/CD y mejora continua de plataformas. Perfil orientado a la eficiencia operativa, la estandarización de entornos y la colaboración con equipos técnicos para acelerar entregas y reforzar la resiliencia de los servicios. 
+Cloud & DevOps Engineer con más de 6 años de experiencia diseñando, automatizando y operando plataformas cloud seguras, escalables y fiables en **Azure** y **AWS**. Especializado en **Infrastructure as Code**, automatización con **Python/Bash**, despliegues CI/CD y mejora continua de plataformas. Perfil orientado a la eficiencia operativa, la estandarización de entornos y la colaboración con equipos técnicos para acelerar entregas y reforzar la resiliencia de los servicios. 
 
 ---
 
 ## COMPETENCIAS CLAVE
 
 <table class="skills">
-<tr><td><strong>Cloud Platforms:</strong> Azure, AWS</td><td><strong>Contenedores &amp; Orquestación:</strong> Docker, Kubernetes (AKS/EKS)</td></tr>
-<tr><td><strong>IaC &amp; Automatización:</strong> Terraform, Python, Bash, PowerShell</td><td><strong>CI/CD:</strong> GitLab CI/CD, Azure DevOps, Jenkins</td></tr>
-<tr><td><strong>Monitorización:</strong> Grafana, Splunk, CloudWatch, Azure Monitor</td><td><strong>Sistemas:</strong> Linux, Windows, Active Directory</td></tr>
-<tr><td><strong>Bases de datos:</strong> MySQL, PostgreSQL, MongoDB</td><td><strong>Networking:</strong> firewalls, VPNs, networking</td></tr>
+<tr><td><strong>Cloud:</strong> Azure, AWS</td><td><strong>Contenedores &amp; Orquestación:</strong> Docker, Kubernetes</td></tr>
+<tr><td><strong>IaC &amp; Automatización:</strong> Terraform, Ansible</td><td><strong>CI/CD &amp; DevOps tools:</strong> Git, GitLab CI/CD, Azure DevOps</td></tr>
+<tr><td><strong>Scripting:</strong> Python, Bash, PowerShell</td><td><strong>Systems:</strong> Linux, Windows</td></tr>
+<tr><td><strong>Monitorización:</strong> Grafana, Splunk, Dynatrace</td><td><strong>Bases de datos:</strong> MySQL, PostgreSQL, MongoDB</td></tr>
+<tr><td><strong>Redes:</strong> Firewall, VPNs, DNS, TCP/IP</td></tr>
 </table>
 
 ---
@@ -29,9 +30,9 @@ Cloud & DevOps Engineer con más de 8 años de experiencia diseñando, automatiz
 
 **Abr 2025 – Actualidad**
 
-* Orquesto y optimizo pipelines **CI/CD** en **GitLab** y **Azure DevOps**, mejorando la fiabilidad de despliegues y la consistencia entre releases.
-* Desarrollo soluciones de **Infrastructure as Code** y automatización con **Terraform, Python y Bash**, reduciendo esfuerzo manual y estandarizando el aprovisionamiento.
-* Refuerzo la observabilidad y la resiliencia operativa mediante mejoras de monitorización, soporte a incidencias y optimización continua de plataforma. 
+* Orquesto y optimizo pipelines **CI/CD** en **GitLab** y **Azure DevOps**, mejorando la fiabilidad de los despliegues.
+* Automatizo y estandarizo infraestructura con **Terraform, Ansible, Python y Bash**.
+* Mejoro la observabilidad y resiliencia de la plataforma.
 
 ### **Cloud Engineer** — *CETAQUA*
 
@@ -40,7 +41,7 @@ Cloud & DevOps Engineer con más de 8 años de experiencia diseñando, automatiz
 * Diseñé e implementé soluciones sobre **Azure** con foco en disponibilidad, seguridad y mantenibilidad para cargas de trabajo críticas.
 * Automaticé despliegues cloud con **Terraform, Bash y Python**, mejorando la consistencia de entornos y reduciendo tareas manuales.
 * Configuré pipelines de **Azure DevOps** y preparé entornos de desarrollo para facilitar la entrega continua por parte de los equipos.
-* Administré servidores **Linux** y di soporte a la operación estable de servicios alojados en la nube. 
+* Administré servidores **Linux** y aseguré la operación estable de servicios alojados en la nube. 
 
 ### **IT Professional** — *Grupo VID*
 
@@ -48,7 +49,7 @@ Cloud & DevOps Engineer con más de 8 años de experiencia diseñando, automatiz
 
 * Desarrollé una plataforma de gestión de incidencias en **PHP con Laravel** para mejorar el seguimiento de operaciones IT internas.
 * Desplegué y administré servidores **Linux** y **Windows**, dando soporte a la infraestructura corporativa.
-* Realicé tareas de soporte técnico, resolución de incidencias y mantenimiento de sistemas clave. 
+* Realicé tareas de soporte técnico, resolví incidencias y mantuve sistemas. 
 
 ---
 
@@ -57,7 +58,7 @@ Cloud & DevOps Engineer con más de 8 años de experiencia diseñando, automatiz
 ### **Grado en Ingeniería Informática** — *Universidad de Málaga*
 
 * Especialidad en **Tecnologías de la Información**
-* Proyecto final: desarrollo de aplicación web con **Django** 
+* Proyecto final: Aplicación web con **Django** desplegada en servidor propio accesible desde internet.
 
 ### **Técnico Superior en Administración de Sistemas Informáticos en Red**
 
@@ -71,11 +72,11 @@ Cloud & DevOps Engineer con más de 8 años de experiencia diseñando, automatiz
 
 * **DevOps, Cloud and Agile Foundations Specialization** — Dic 2023
 * **AZ-900: Microsoft Azure Fundamentals** — Oct 2023
-* **Cloud Computing Expert** — International University of La Rioja — Feb 2023 / Oct 2023 
+* **Cloud Computing Expert** — Universidad Internacional de La Rioja — Feb 2023 y Oct 2023 
 
 ---
 
 ## IDIOMAS
 
 * **Español:** Nativo
-* **Inglés:** B2 — competencia profesional de trabajo 
+* **Inglés:** B2 — competencia profesional de trabajo

@@ -8,18 +8,18 @@ Málaga | [davidaguilera91@gmail.com](mailto:davidaguilera91@gmail.com) | +34 61
 
 ## PROFESSIONAL SUMMARY
 
-Cloud & DevOps Engineer with 6+ years of experience building reliable, scalable, and automated platforms across **Azure** and **AWS**. Strong background in **Infrastructure as Code**, **CI/CD orchestration**, and automation with **Python** and **Bash**, with hands-on experience designing secure cloud environments and improving operational efficiency. Focused on delivering robust platforms, standardizing infrastructure, and enabling faster, more reliable software delivery.
+Cloud & DevOps Engineer with 6+ years of experience building reliable, scalable, and automated platforms using **Azure** and **AWS**. Strong background in **Infrastructure as Code**, **CI/CD orchestration**, and automation with **Python** and **Bash**, with hands-on experience designing secure cloud environments and improving operational efficiency. Focused on delivering robust platforms, standardizing infrastructure, and enabling faster, more reliable software delivery.
 
 ---
 
 ## CORE SKILLS
 
 <table class="skills">
-<tr><td><strong>Cloud:</strong> Azure, AWS</td><td><strong>Containers &amp; Orquestación:</strong> Docker, kubernetes</td></tr>
+<tr><td><strong>Cloud:</strong> Azure, AWS</td><td><strong>Containers &amp; Orchestration:</strong> Docker, Kubernetes</td></tr>
 <tr><td><strong>IaC &amp; Automation:</strong> Terraform, Ansible</td><td><strong>CI/CD &amp; DevOps Tools:</strong> Git, GitLab CI/CD, Azure DevOps</td></tr>
 <tr><td><strong>Scripting:</strong> Python, Bash, PowerShell</td><td><strong>Systems:</strong> Linux, Windows</td></tr>
 <tr><td><strong>Monitoring:</strong> Grafana, Splunk, Dynatrace</td><td><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</td></tr>
-<tr><td><strong>Networking:</strong> firewalls, VPNs, DNS, TCP/IP</td></tr>
+<tr><td><strong>Networking:</strong> Firewall, VPNs, DNS, TCP/IP</td></tr>
 </table>
 
 ---
@@ -30,8 +30,8 @@ Cloud & DevOps Engineer with 6+ years of experience building reliable, scalable,
 
 **Apr 2025 – Present**
 
-* Orchestrate and optimize **CI/CD workflows** across **GitLab** and **Azure DevOps** to improve deployment reliability and release consistency.
-* Engineer **Infrastructure as Code** and automation using **Terraform, Python, and Bash** to standardize provisioning and reduce manual effort.
+* Orchestrate and optimize **CI/CD workflows** using **GitLab** and **Azure DevOps** to improve deployment reliability and release consistency.
+* Design and implement **Infrastructure as Code** (IaC) and automation using **Terraform**, **Ansible**, **Python**, and **Bash** to standardize infrastructure provisioning and reduce manual effort.
 * Strengthen observability and operational resilience through monitoring, incident response, and continuous platform improvements.
 
 ### **Cloud Engineer** — *CETAQUA*
@@ -49,7 +49,7 @@ Cloud & DevOps Engineer with 6+ years of experience building reliable, scalable,
 
 * Developed an incident management platform in **PHP with Laravel** to support internal IT operations and service tracking.
 * Deployed and administered **Linux** and **Windows** servers while supporting day-to-day infrastructure operations.
-* Provided user support, troubleshooting, and maintenance across core IT systems.
+* Provided user support, troubleshooting, and maintenance of core IT systems.
 
 ---
 
@@ -58,9 +58,9 @@ Cloud & DevOps Engineer with 6+ years of experience building reliable, scalable,
 ### **Degree in Computer Science** — *University of Malaga*
 
 * Major in **Information Technologies**
-* Final Project: Web application developed with **Django**
+* Final Project: Web application developed with **Django** and deployed on a linux server.
 
-### **Higher Technician in Networked Computer Systems Administration (HND Equivalent)** — *SEC Santiago Ramon y Cajal*
+### **Higher Technician in Networked Computer Systems Administration (HND equivalent)** — *SEC Santiago Ramon y Cajal*
 
 * Final Project: Deployment and configuration of **Windows Server Active Directory** services and virtualization with **Hyper-V**
 
@@ -70,7 +70,7 @@ Cloud & DevOps Engineer with 6+ years of experience building reliable, scalable,
 
 * **DevOps, Cloud and Agile Foundations Specialization** — Dec 2023
 * **AZ-900: Microsoft Azure Fundamentals** — Oct 2023
-* **Cloud Computing Expert** — International University of La Rioja — Feb 2023 to Oct 2023
+* **Cloud Computing Expert** — International University of La Rioja — Feb 2023 and Oct 2023
 
 ---
 
